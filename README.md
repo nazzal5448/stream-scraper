@@ -21,7 +21,7 @@ This project is designed to scrape a streaming site and pull details about games
 
    ```bash
    git clone https://github.com/nazzal5448/stream-scraper.git
-   cd <repository-directory>
+   cd stream-scraper
    ```
 
 2. Install the required packages:
